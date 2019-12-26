@@ -1,2 +1,1 @@
-Git is a control system.
-Git is a free software
+Creating a new branch is quick
